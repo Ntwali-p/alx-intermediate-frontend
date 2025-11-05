@@ -1,1 +1,6 @@
 /*! tailwindcss v4.1.16 | MIT License | https://tailwindcss.com */
+@media (max-width: 768px) {
+  main {
+    grid-template-columns: 1fr;
+  }
+}
